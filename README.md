@@ -21,10 +21,6 @@ SkillSet is a lightweight front-end demo for turning a `JSONResume` skills secti
 - Live demo: [jac21.github.io/viz.html](https://jac21.github.io/viz.html)
 - React wrapper by [romain325](https://github.com/romain325): [ReactSkillSet](https://github.com/romain325/ReactSkillSet)
 
-## Screenshot
-
-![Example](https://raw.githubusercontent.com/Jac21/SkillSet/master/assets/img/screencap.png)
-
 ## How It Works
 
 1. Upload a resume file with a populated `skills` array.
